@@ -22,12 +22,10 @@ After pwell and nwell are formed we need to diffuse the wells deep in the substr
 After well formation we need to create gates. The parameter of gates are dependent on physical properties of the CMOS that are controlled here. For gate formation we diffuse boron in pwell with low energy to form a thin channel similarly phosphorous for nwell. Diffusion process damages oxide layer so we remove the oxide and again add a new layer of oxide. \
 This step is followed by addition of polysilicon layer doping with n type material to reduce gate resistance and addition of photoresist and mask above it then exposure to UV and washing out remains and removal of mask to get polysilicon gate. In this process we controlles Vth using diffusion layer gate oxide capacitance and a low resistance gate formation. \
 ![](Images/D3_8.png) \
-
 Lightly doped drain (LDD): \
 Here we are using lightly doped N or P type biasing, due to following reason: \
 •	Hot electron effect: when device size reduces electric field increases they will have high energy carriers that can break Si-Si bonds and might cross oxide layer \
 •	Short channel effect: For short channel drain field can penetrates channel \
-
 Here also we follow standard step of covering Nwell and on exposed Pwell we implant Phosphorous in a manner that it is lighyly dopes (N-) in Pwell. We repease it with Nwell with Boron. \
 To protect the newly created LDD we create a side-wall spacer arounf spacer using plasma anisotropic etching process which will also remove oxide layer. They will protect the LDD around the drain when source and drain are created. \
 ![](Images/D3_9.png) \ 
