@@ -6,7 +6,6 @@ In chip fabrication we first put p substrate then put ~40nm of SiO2 above it fol
 \
 ![](Images/D3_1.png) \
 \
-
 Substrate with isolation, Silicon nitride, photoresist and mask. \
 \
 ![](Images/D3_2.png) \
@@ -46,7 +45,7 @@ Here we are using lightly doped N or P type biasing, due to following reason: \
 Here also we follow standard step of covering Nwell and on exposed Pwell we implant Phosphorous in a manner that it is lighyly dopes (N-) in Pwell. We repease it with Nwell with Boron. \
 To protect the newly created LDD we create a side-wall spacer arounf spacer using plasma anisotropic etching process which will also remove oxide layer. They will protect the LDD around the drain when source and drain are created. \
 \
-![](Images/D3_9.png) \ 
+![](Images/D3_9.png) \
 \
 **Source and Drain formation:** \
 First we need to add a thin layer of oxide to avoid channeling effect where the ion might go to p-subsrtate without crossing wells. The next process is to add a mask aboce N well and add n type in the P well so that the free space will create N+ doping and LDD will be protected by the side wall spacers. It is repeated for N-well by covering P-well. Then it is passed through high temperature annealing to push the source and drain deep into the wells. \
