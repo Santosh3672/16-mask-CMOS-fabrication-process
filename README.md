@@ -90,3 +90,6 @@ After we reached top most layer we take add a blanked ot Si3N4 to protect the ch
 ![](Images/D3_18.png) \
 \
 Final fabricated chip.
+
+## Reference:
+VLSI System Design, (https://www.vlsisystemdesign.com)
